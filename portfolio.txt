@@ -1,0 +1,14 @@
+
+Stock portfolio Summary:
+AAPL : 10 shares at $ 180 each
+
+Total Assests Value: $181800
+
+Stock portfolio Summary:
+AAPL : 1000 shares at $ 180 each
+Total Assests Value: $181800
+
+Stock portfolio Summary:
+
+AMZN : 1000 shares at $ 130 each
+Total Assests Value: $131300
